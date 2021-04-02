@@ -1,7 +1,6 @@
 {
-  "name": "Jugendreisen",
+  "name": "jugendreisen",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -11,12 +10,13 @@
     "url": "git+https://github.com/Jugendreisen/Jugendreisen.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "fanxiaolong",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jugendreisen/Jugendreisen/issues"
   },
   "homepage": "https://github.com/Jugendreisen/Jugendreisen#readme",
+  "description": "",
   "devDependencies": {
     "electron": "^12.0.2"
   }
